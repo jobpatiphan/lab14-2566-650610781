@@ -49,7 +49,7 @@ export default function FoodReviewPage() {
       <Pagination mt="md" total={20} position="center" color="orange" />
 
       <Text align="center" color="dimmed" my="sm">
-        Copyright © 2023 Chayanin Suatap 650610560
+        Copyright © 2023 Patiphan Klinhom 650610781
       </Text>
     </Container>
   );
